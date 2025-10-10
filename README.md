@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Isaac Mumo
+I am a Data Scientist with a special interest in machine learning and Artificial Inteligence
 <!--
 **IsaacNgungi/IsaacNgungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
