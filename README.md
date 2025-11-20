@@ -20,7 +20,7 @@ custormersupport - A project showcasing a customer support chatbot
   - Project collaborations
   - 
   ## 📫 How to reach me:
-  Email - isaackmumo2@gmail.com | linkedin
+  Email - isaackmumo2@gmail.com | www.linkedin.com/in/isaack-mumo-
   
 
 
