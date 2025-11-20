@@ -6,7 +6,7 @@ I am a Data Scientist with a special interest in machine learning and Artificial
 🔭 I previuosly worked as a Land Surveyor in Kenya Ministry of Lands and Physical Planning with over 3 years of experience. A considerable amount of time is spent working on raw on the ground data, mathematical calculations and problem solving output for the betterment of clients and communities resolving dispputes.
 
 ### Skills & Tools 
-I am well veresed in Python | SQL | Power BI | Excel
+I am well veresed in Python | SQL | Power BI | Excel |  gitbash | Pandas | NumPy | Data Analysis | Machine Learning | Deep Learning | TensorFlow | Scikit-learn | keras | NLP | LLM(GPT BERT) | FastAPI | AI product development
 
 ## 🌱 Highlights
 Kenyan_Constitution_rag - A RAG project based on the Kenyan 2010 constitution
